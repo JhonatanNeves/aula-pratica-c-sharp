@@ -1,0 +1,15 @@
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\bin\Debug\net6.0\Projeto.exe
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\bin\Debug\net6.0\Projeto.deps.json
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\bin\Debug\net6.0\Projeto.runtimeconfig.json
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\bin\Debug\net6.0\Projeto.dll
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\bin\Debug\net6.0\ref\Projeto.dll
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\bin\Debug\net6.0\Projeto.pdb
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\obj\Debug\net6.0\Projeto.csproj.AssemblyReference.cache
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\obj\Debug\net6.0\Projeto.dll
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\obj\Debug\net6.0\ref\Projeto.dll
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\obj\Debug\net6.0\Projeto.pdb
+D:\MEUS PROJETOS\CsharpConsoleAplication\Projeto\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
