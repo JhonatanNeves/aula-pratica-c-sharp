@@ -44,7 +44,45 @@ namespace Projeto
                         }
                         break;
                     case "3":
-                        //TODO: calcular média geral
+                        decimal notaTotal = 0;
+                        var nrAlunos = 0;
+                        for (int i=0; i < alunos.Length; i++){
+                            if (!string.IsNullOrEmpty(alunos[i].Nome)){
+                                notaTotal = notaTotal + alunos[i].Nota;
+                                nrAlunos++;
+                            }
+                        }
+
+                        var mediaGeral = notaTotal / nrAlunos;
+
+                        ConceitoEnum conseitoGeral;
+
+                        if(mediaGeral < 2)
+                        {
+                            conseitoGeral = ConceitoEnum.E;
+                        }
+
+                        else if (mediaGeral < 4)
+                        {
+                            conseitoGeral = ConceitoEnum.D;
+                        }
+
+                        else if (mediaGeral < 6)
+                        {
+                            conseitoGeral = ConceitoEnum.C;
+                        }
+
+                        else if (mediaGeral < 8)
+                        {
+                            conseitoGeral = ConceitoEnum.B;
+                        }
+
+                        else
+                        {
+                            conseitoGeral = ConceitoEnum.A;
+                        }
+
+                        Console.WriteLine($"MÉDIA GERAL: {mediaGeral} - CONCEITO GERAL: {conseitoGeral}");
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();
