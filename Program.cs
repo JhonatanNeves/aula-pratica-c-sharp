@@ -34,7 +34,14 @@ namespace Projeto
                         indiceAluno++;
                         break;
                     case "2":
-                        //TODO: listar alunos
+                        foreach(var a in alunos)
+                        {
+                            if (!string.IsNullOrEmpty(a.Nome)) 
+                            {
+                                Console.WriteLine($"ALUNO: {a.Nome} - NOTA: {a.Nota}");
+                            }
+
+                        }
                         break;
                     case "3":
                         //TODO: calcular média geral
